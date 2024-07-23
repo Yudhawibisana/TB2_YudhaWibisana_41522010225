@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.hellohasan.sqlite_multiple_three_tables_crud">
-
+    //Yudha Wibisana 41522010225//
+    
     <application
         android:name=".util.MyApp"
         android:allowBackup="true"
